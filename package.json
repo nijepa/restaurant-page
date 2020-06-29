@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "nijepa"
+    "url": "git+https://github.com/nijepa/restaurant.git""
   },
   "author": "Nikola Pavicevic",
   "license": "ISC",
