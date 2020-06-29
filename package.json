@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nijepa"
+  },
+  "author": "Nikola Pavicevic",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
